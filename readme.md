@@ -1,0 +1,1 @@
+2024年12月31日：原代码里面是直接根据root_path处理电脑上的文件。但是部署到云平台后，比如streamlit cloud，需要先用file_uploader上传文件后才能进行处理。
