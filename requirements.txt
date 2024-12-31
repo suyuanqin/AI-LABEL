@@ -1,0 +1,6 @@
+openai==1.58.1
+pandas==2.2.3
+Pillow==10.1.0
+Pillow==11.0.0
+streamlit==1.40.1
+
